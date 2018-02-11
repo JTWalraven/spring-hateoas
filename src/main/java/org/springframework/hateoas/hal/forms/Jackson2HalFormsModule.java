@@ -38,7 +38,7 @@ import org.springframework.hateoas.hal.ResourceSupportMixin;
 import org.springframework.hateoas.hal.forms.HalFormsDeserializers.HalFormsResourcesDeserializer;
 import org.springframework.hateoas.hal.forms.HalFormsSerializers.HalFormsResourceSerializer;
 import org.springframework.hateoas.hal.forms.HalFormsSerializers.HalFormsResourcesSerializer;
-import org.springframework.hateoas.web.mvc.JacksonSerializers.MediaTypeDeserializer;
+import org.springframework.hateoas.mvc.JacksonSerializers.MediaTypeDeserializer;
 import org.springframework.http.MediaType;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
